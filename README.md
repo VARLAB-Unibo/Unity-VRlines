@@ -29,10 +29,22 @@ For this reason, we here introduce Unity-VRlines, an open-source modular virtual
 * Camera view switch with Kinematics in VR mode;
 * Guided In-Game Tutorial;
 
-## References
 
 The core physics module is heavily adapted from [this project](https://github.com/gasgiant/Aircraft-Physics). 
 
 ## Demo
 
 The demo is in the ```Assets/UnityAirline/Scenes_and_Scripts/Scenes/VR_Simulator.unity```.
+
+
+## Cite the work 
+```
+@inproceedings{di2023unity,
+  title={Unity-VRlines: Towards a Modular eXtended Reality Unity Flight Simulator},
+  author={Di Maria, Giuseppe and Stacchio, Lorenzo and Marfia, Gustavo},
+  booktitle={International Conference on Entertainment Computing},
+  pages={241--250},
+  year={2023},
+  organization={Springer}
+}
+```
