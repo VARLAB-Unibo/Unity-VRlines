@@ -4,7 +4,7 @@
 [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2)\*,
 [Gustavo Marfia](https://github.com/qp-qp)<br/>
 
-| [IFIP ICEC '23 Oral](https://icec23.cs.unibo.it/) | [paper]() | [project page](https://varlab-unibo.github.io/Unity-VRlines/) | [video](https://www.youtube.com/watch?v=YtbWemils_s)
+| [IFIP ICEC '23 Oral](https://icec23.cs.unibo.it/) | [paper](https://link.springer.com/chapter/10.1007/978-981-99-8248-6_20) | [project page](https://varlab-unibo.github.io/Unity-VRlines/) | [video](https://www.youtube.com/watch?v=YtbWemils_s)
 
 <p align="center">
   <img src="images\aircraft.png" width="350">
